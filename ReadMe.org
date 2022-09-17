@@ -47,24 +47,37 @@
 ** Para empezar
 
 =¿Cómo te llamas?= -> =Wie heißt du?=
+
 =Me llamo Linus= -> =Ich heiße Linus=
 
+
 =¿De dónde eres?= -> =Woher kommst du?=
+
 =Soy de Alemania= -> =Ich komme aus Deutschland=
 
+
 =¿Cuántos años tienes?= -> =Wie alt bist du?=
+
 =Tengo viente años= -> =Ich bin 20 Jahre alt=
 
+
 =¿Cuándo es tu cumpleaños?= -> =Wann hast du Geburtstag?=
+
 =Mi cumpleaños es el siete de agosto dos mil dos= -> =Ich habe am 7. August 2002 Geburtstag=
 
+
 =¿Cuál es tu número de teléfono?= -> =Was ist deine Telefonnummer?=
+
 =Mi número de teléfono es 123456789= -> =Meine Telefonnummer ist 123456789=
 
+
 =¿Cuál es tu dirección?= -> =Was ist deine Adresse?=
+
 =Mi dirección es= -> =Meine Adresse ist=
 
+
 =¿Cuál es tu correo electrónico?= -> =Was ist deine E-Mail-Adresse?=
+
 =Mi correo electrónico es= -> =Meine E-Mail-Adresse ist=
 
 
