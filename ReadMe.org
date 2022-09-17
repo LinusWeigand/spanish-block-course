@@ -7,11 +7,13 @@
 :TOC:      :include all :ignore this
 :END:
 :CONTENTS:
-- [[#cartas-especiales][Cartas especiales]]
+- [[#cartas-especiales][Cartas Especiales]]
 - [[#secciones][Secciones]]
-    - [[#para-empezar][Para empezar]]
-    - [[#en-la-universidad][En la universidad]]
-    - [[#relaciones-personales][Relaciones personales]]
+    - [[#para-empezar][Para Empezar]]
+        - [[#preguntas-personales][Preguntas Personales]]
+        - [[#preguntas-sobre-el-tiempo][Preguntas Sobre el Tiempo]]
+    - [[#en-la-universidad][En La Universidad]]
+    - [[#relaciones-personales][Relaciones Personales]]
 - [[#gramática][Gramática]]
     - [[#verbos][Verbos]]
     - [[#pronombres][Pronombres]]
@@ -44,9 +46,9 @@
 
 * Secciones
 
-** Para empezar
+** Para Empezar
 
-*** En persona
+*** Preguntas Personales
 
 =¿Cómo te llamas?= -> =Wie heißt du?=
 
@@ -94,7 +96,7 @@
 
 =Vivo en Múnich= -> =Ich wohne in München=
 
-=¿Qué estudias? -> =Was studierst du?=
+=¿Qué estudias?= -> =Was studierst du?=
 
 =Estudio informática= -> =Ich studiere Informatik=
 
@@ -111,7 +113,7 @@
 =Hablo alemán, inglés y un poco de español= -> =Ich spreche Deutsch, Englisch und Spanisch=
 
 
-*** impersonal
+*** Preguntas Sobre El Tiempo
 
 =¿Qué día es hoy?= -> =Welcher Tag ist heute?=
 
@@ -125,6 +127,10 @@
 
 =Ayer fue domingo= -> =Gestern war Sonntag=
 
+=¿Qué hora es?= -> =Wie spät ist es?=
+
+=Son las siete= -> =Es ist sieben Uhr=
+
 =Yo también= -> =Ich auch=
 
 =Yo tampoco= -> =Ich auch nicht=
@@ -132,6 +138,12 @@
 =Yo sí= -> =Ich schon=
 
 =Yo no= -> =Ich nicht=
+
+
+
+
+
+
 
 
 
