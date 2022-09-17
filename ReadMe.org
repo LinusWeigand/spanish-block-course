@@ -46,13 +46,29 @@
 
 ** Para empezar
 
+*** En persona
+
 =¿Cómo te llamas?= -> =Wie heißt du?=
 
 =Me llamo Linus= -> =Ich heiße Linus=
 
+=Mi nombre es Linus= -> =Mein Name ist Linus=
+
+=¿Cómo te apellidas?= -> =Wie ist dein Nachname?=
+
+=Me apellido Torvalds= -> =Mein Nachname ist Torvalds=
+
 =¿De dónde eres?= -> =Woher kommst du?=
 
 =Soy de Alemania= -> =Ich komme aus Deutschland=
+
+=¿Cuál es tu nacionalidad?= -> =Welche Nationalität hast du?=
+
+=Soy alemán= -> =Ich bin Deutscher=
+
+=Soy de Alemania= -> =Ich komme aus Deutschland=
+
+=Mi nacionalidad es alemana= -> =Meine Nationalität ist deutsch=
 
 =¿Cuántos años tienes?= -> =Wie alt bist du?=
 
@@ -73,6 +89,53 @@
 =¿Cuál es tu correo electrónico?= -> =Was ist deine E-Mail-Adresse?=
 
 =Mi correo electrónico es= -> =Meine E-Mail-Adresse ist=
+
+=¿Dónde vives?= -> =Wo wohnst du?=
+
+=Vivo en Múnich= -> =Ich wohne in München=
+
+=¿Qué estudias? -> =Was studierst du?=
+
+=Estudio informática= -> =Ich studiere Informatik=
+
+=¿Cuál es tu profesión?= -> =Was ist dein Beruf?=
+
+=Soy estudiante= -> =Ich bin Student=
+
+=¿Cuál es tu trabajo?= -> =Was ist deine Arbeit?=
+
+=Trabajo como ingeniero de software= -> =Ich arbeite als Software-Entwickler=
+
+=¿Qué lenguas hablas? -> =Welche Sprachen sprichst du?=
+
+=Hablo alemán, inglés y un poco de español= -> =Ich spreche Deutsch, Englisch und Spanisch=
+
+
+*** impersonal
+
+=¿Qué día es hoy?= -> =Welcher Tag ist heute?=
+
+=Hoy es lunes= -> =Heute ist Montag=
+
+=¿Qué día es mañana?= -> =Welcher Tag ist morgen?=
+
+=Mañana es martes= -> =Morgen ist Dienstag=
+
+=¿Qué día es ayer?= -> =Welcher Tag war gestern?=
+
+=Ayer fue domingo= -> =Gestern war Sonntag=
+
+=Yo también= -> =Ich auch=
+
+=Yo tampoco= -> =Ich auch nicht=
+
+=Yo sí= -> =Ich schon=
+
+=Yo no= -> =Ich nicht=
+
+
+
+
 
 
 
