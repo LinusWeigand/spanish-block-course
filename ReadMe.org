@@ -46,7 +46,7 @@
 
 ** Para empezar
 
-=¿Cómo estás?= => =Wie heißt du?=
+=¿Cómo estás?= -> =Wie heißt du?=
 
 
 
