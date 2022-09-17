@@ -26,7 +26,7 @@
 
 * Cartas especiales
 
-¿-¡-á  é í ñ ó ú Á É Í Ñ Ó Ú 
+¿  ¡  á  é í ñ ó ú Á É Í Ñ Ó Ú 
 
 
 * Secciones
